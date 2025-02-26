@@ -1,0 +1,1322 @@
+Temazepam, 替代epam, -1.0
+Ropinirole, ropinirole, -1.0
+Nevirapine, 奈韦拉平, -1.0
+Lopinavir-Ritonavir, Lopinavir-Ritonavir, -1.0
+Niacin SR, 烟酸SR, -1.0
+Etomidate, 依托态, -1.0
+Diluent for REGN1979, Regn1979的稀释剂, -1.0
+INV-REGN1979, Inv-Regn1979, -1.0
+Doxepin HCl, doxepin hcl, -1.0
+Isosorbide , 异氧化物, -1.0
+Milk Of Magnesia, 镁乳, -1.0
+LaMOTrigine, 拉莫三嗪, -1.0
+Lunesta (Eszopiclone), Lunesta（Eszopiclone）, -1.0
+Carbamazepine Chewable Tabs, 卡马西平可咀嚼的标签, -1.0
+anastrozole, 阿斯特罗, -1.0
+Miconazole Nitrate Vag Cream 2%, 米其唑硝酸盐VAG霜2％, -1.0
+Anusol-HC, Anusol-HC, -1.0
+Propafenone HCl, propafenone HCl, -1.0
+Aldesleukin, Aldesleukin, -1.0
+Penicillin V Potassium, 青霉素V钾, -1.0
+DULoxetine DR, Duloxetine Dr, -1.0
+GuaiFENesin-Dextromethorphan, 肠甲状腺甲状腺素, -1.0
+Symbicort, Symbicort, -1.0
+treprostinil, 伍德植物, -1.0
+tadalafil, 他达拉非, -1.0
+Lomedia 24 Fe, Lomedia 24 Fe, -1.0
+Sterile Diluent for Flolan, 弗洛兰的无菌稀释剂, -1.0
+Treprostinil Sodium, 扭胸钠, -1.0
+Triple Omega 3-6-9, 三重欧米茄3-6-9, -1.0
+Caspofungin, caspofungin, -1.0
+Triamterene, triamterene, -1.0
+NS Epidural Bag (0.9% NaCl), NS硬膜外袋（0.9％NACL）, -1.0
+Syringe (Intrapleural), 注射器（胸腔内）, -1.0
+Kcentra*, kcentra *, -1.0
+Lacosamide, lacosamide, -1.0
+Lithium Carbonate CR (Eskalith), 碳酸盐CR（Eskalith）, -1.0
+LeVETiracetam Solution, Levetiracetam解决方案, -1.0
+Hydrochloric Acid, 盐酸, -1.0
+D5 1/4NS, D5 1/4NS, -1.0
+D51/2NS 1000ml, D51/2NS 1000ml, -1.0
+Dronabinol, Dronabinol, -1.0
+Magnesium Sulf 2gm/50mL 50mL BAG, 硫酸镁2gm/50ml 50ml袋, -1.0
+Beclomethasone Dipropionate, 替代替代替代酸盐, -1.0
+Theophylline (Oral Solution), 茶碱（口服溶液）, -1.0
+Pulmicort, Pulmicort, -1.0
+Heparin Flush CVL  (100 units/ml), 肝素冲洗CVL（100单位/毫升）, -1.0
+Silver Sulfadiazine 1% Cream, 银磺胺嗪1％奶油, -1.0
+ChlordiazePOXIDE, 氯二氮二氧化异物, -1.0
+LevETIRAcetam Oral Solution, Levetiracetam口服溶液, -1.0
+Quinapril, Quinapril, -1.0
+tamsuLOSIN, Tamsulos, -1.0
+INV-Bupivacaine 0.25%, Inv-Bupivacaine 0.25％, -1.0
+Aspirin Desensitization (Angioedema), 阿司匹林脱敏（血管性水肿）, -1.0
+Aspirin , 阿司匹林, -1.0
+Dolutegravir, Dolutegravir, -1.0
+Tricor, Tricor, -1.0
+Potassium Chl 20 mEq / 1000 mL D5W, 钾CHL 20 MEQ / 1000 mL D5W, -1.0
+Carbamazepine, 卡马西平, -1.0
+Collagenase Ointment, 胶原酶软膏, -1.0
+Dakins 1/4 Strength, 达金斯1/4力量, -1.0
+Letairis, 块, -1.0
+Bupivacaine 0.05%, 布比卡因0.05％, -1.0
+Clonidine Patch 0.2 mg/24 hr, 可乐定贴剂0.2 mg/24小时, -1.0
+Tecfidera (Dimethyl fumarate), tecfidera（富马酸二甲基）, -1.0
+Rituximab Desensitization, 利妥昔单抗脱敏, -1.0
+Bortezomib, 硼替佐米, -1.0
+Cholestyramine, 胆碱胺, -1.0
+Lyrica, Lyrica, -1.0
+Fluticasone-Salmeterol (100/50), 氟替卡酮 - 盐极酚（100/50）, -1.0
+beclomethasone dipropionate, 替代倍替众, -1.0
+methenamine hippurate 1gm, 甲烯胺的1GM, -1.0
+Clobazam, Clobazam, -1.0
+RisperiDONE, 利培酮, -1.0
+Lantus, Lantus, -1.0
+Mesalamine DR, 美赛胺博士, -1.0
+BusPIRone, buspirone, -1.0
+Maxair Autohaler, 刀, -1.0
+Nabumetone, 纳布莫酮, -1.0
+Temodar, Temodar, -1.0
+Temodar 140mg, 140mg的女士, -1.0
+Opium Tincture, 鸦片tin剂, -1.0
+Medium Chain Triglycerides, 中链甘油三酸酯, -1.0
+Propranolol LA, 普雷亚洛尔洛杉矶, -1.0
+PHENObarbital, 苯巴比妥, -1.0
+Salmeterol Xinafoate Diskus (50 mcg), Salmeterol Xinafoate磁盘（50 MCG）, -1.0
+Xopenex, xopenex, -1.0
+Niaspan Extended-Release, Niaspan扩展释放, -1.0
+meloxicam, 美洛昔康, -1.0
+Pramipexole, 普拉米己烯, -1.0
+Dofetilide, Dofetils, -1.0
+Verapamil, 维拉帕米, -1.0
+Dactinomycin, 乳霉素, -1.0
+Methylene Blue, 亚甲蓝, -1.0
+Feraheme, 费拉希姆, -1.0
+Amphetamine-Dextroamphetamine, 苯丙胺 - 脱离苯丙胺, -1.0
+Dextran 40 10% in D5W, Dextran 40 10％D5W, -1.0
+ZIPRASidone Hydrochloride, 盐酸索拉替酮, -1.0
+Nasonex, nasonex, -1.0
+Provigil, Provigil, -1.0
+Zyrtec, Zyrtec, -1.0
+Alphagan P, Alphagan p, -1.0
+Salagen, 盐, -1.0
+Floxin, 氟霉素, -1.0
+Codeine Phosphate, 可待因磷酸盐, -1.0
+PrimiDONE, 亚吉酮, -1.0
+Dipyridamole, 二吡啶胺, -1.0
+Prazosin, prazosin, -1.0
+Buprenorphine-Naloxone Tablet (8mg-2mg), 丁丙诺啡 - 纳恶酮片剂（8mg-2mg）, -1.0
+MethylPREDNISolone Sod Succ , 甲基强酮Sod succ, -1.0
+RiTONAvir, 利托纳维尔, -1.0
+Abacavir Sulfate, 阿巴卡维尔硫酸盐, -1.0
+Darunavir, 达鲁纳维尔, -1.0
+Pentoxifylline, 五氧化氨酸, -1.0
+Dexamethasone Oral Soln (0.1mg/1mL), 地塞米松口服溶液（0.1mg/1ml）, -1.0
+Vecuronium Bromide, 溴化物壁, -1.0
+gabapentin, 加巴喷丁, -1.0
+LACOSamide, lacosamide, -1.0
+PNEUMOcoccal 13-valent conjugate vaccine, 肺炎球菌13价偶联疫苗, -1.0
+0.9% Sodium Chl (Yellow CADD), 0.9％CHL（黄色CADD）, -1.0
+NORepinephrine (in NS), 去甲肾上腺素（在NS中）, -1.0
+PHENYLEPHrine (QuVa), 苯肾上腺素（QUVA）, -1.0
+Terbinafine 1% Cream, Terbinafine 1％奶油, -1.0
+CISplatin, 顺铂, -1.0
+Emtricitabine, Emtricerabine, -1.0
+Asenapine, 亚纳平, -1.0
+Lithium , 锂, -1.0
+asenapine, 亚纳平, -1.0
+Axiron, Axiron, -1.0
+Mirapex, Mirapex, -1.0
+Diclofenac Sodium DR, 双氯芬酸钠DR, -1.0
+Aspirin-Caffeine-Butalbital, 阿司匹林 - 咖啡因 - 丁香酸, -1.0
+N-Acetylcysteine, N-乙酰半胱氨酸, -1.0
+Methylene Blue 1%, 亚甲基蓝1％, -1.0
+acetaminophen, 对乙酰氨基酚, -1.0
+rabeprazole, 拉比拉唑, -1.0
+Linzess, linzess, -1.0
+MetronidAZOLE Topical 1 % Gel, 甲硝唑局部1％凝胶, -1.0
+QUEtiapine extended-release, 喹硫平延长释放, -1.0
+Sotalol, 索塔洛, -1.0
+AndroGel (20.25mg/1.25gm-1.62%), Androgel（20.25mg/1.25gm-1.62％）, -1.0
+acitretin, 阿斯特拉丁, -1.0
+*NF* Ertapenem Sodium, * nf*厄尔特类钠, -1.0
+Raltegravir, Raltegravir, -1.0
+Etravirine, etravirine, -1.0
+Decitabine, 解滨, -1.0
+Benicar, 贝尼卡, -1.0
+Lidocaine 1%/Epinephrine 1:100,000, 利多卡因1％/肾上腺素1：100,000, -1.0
+prednisoLONE, 泼尼松龙, -1.0
+PHENObarbital Alcohol Withdrawal Dose Taper (Days 2-7), 苯巴比妥戒断剂量锥度（第2-7天）, -1.0
+Nystatin-Triamcinolone Cream, Nystatin-Triamcinolone乳霜, -1.0
+Hydrocortisone Acetate Ointment 1%, 乙酸氢化可的松软膏1％, -1.0
+Phenaseptic Throat Spray, themaptic喉咙喷雾, -1.0
+Questran, Questran, -1.0
+Dabigatran Etexilate, dabigatran Etexilate, -1.0
+cilos, Cillos, -1.0
+Cyproheptadine, Cyproheptadine, -1.0
+Advair Diskus, Advair铁饼, -1.0
+brinzolamide, 亚唑胺, -1.0
+dilt, d, -1.0
+diltiazem, 迪尔蒂亚兹, -1.0
+Nystatin , nystatin, -1.0
+Olmesartan, 奥尔姆萨尔坦, -1.0
+Marijuana Lollipop (loz), 大麻Lollipop（LOZ）, -1.0
+Cytarabine Liposome, 黄酸酯脂质体, -1.0
+GenTeal Gel, 吉祥凝胶, -1.0
+Amitriptyline HCl, 阿米替林HCl, -1.0
+Phenelzine Sulfate, 苯嗪硫酸盐, -1.0
+Strattera, Strattera, -1.0
+TB Syringe, 结核病注射器, -1.0
+Insulin Regular Human (U-500), 胰岛素常规人（U-500）, -1.0
+Morphine , 吗啡, -1.0
+DiCLOXacillin, 双氧甲基肽, -1.0
+Ethacrynic Acid, 乙酸, -1.0
+Fondaparinux, Fondaparinux, -1.0
+econazole, 依依康唑, -1.0
+Triamcinolone Acetonide 0.1% Cream, Triamcinolone acotonide 0.1％奶油, -1.0
+Mesalamine, 美曲胺, -1.0
+balsalazide, 巴尔萨拉齐德, -1.0
+Ipratropium-Albuterol Inhalation Spray, ipratropium-albuterol吸入喷雾剂, -1.0
+Trandolapril, trandolapril, -1.0
+Quinine Sulfate, 奎宁硫酸盐, -1.0
+Carisoprodol, Carisoprodol, -1.0
+Incruse Ellipta, 累计埃利利普, -1.0
+Von Willebrand fctr (Humate-P), von Willebrand FCTR（Humate-P）, -1.0
+Iron Dextran (Test Dose), 铁葡聚糖（测试剂量）, -1.0
+Iron Dextran Complex, 铁葡聚糖复合物, -1.0
+Aspirin Desensitization (Urticaria/Angioedema), 阿司匹林脱敏（荨麻疹/血管性水肿）, -1.0
+Tranylcypromine Sulfate, 硫酸二甲基丙氨酸, -1.0
+Loxapine Succinate, Loxapine琥珀酸酯, -1.0
+dorzolamide, 多唑胺, -1.0
+Ethacrynate Sodium, 乙烯酸钠, -1.0
+cyanocobalamin (vitamin B-12), 蓝晶胺（维生素B-12）, -1.0
+Bismuth Subsalicylate Chewable, Bismuth子白杨酸可咀嚼, -1.0
+carbidopa, 卡比多巴, -1.0
+pramipexole, 普拉米己烯, -1.0
+Ruxolitinib, rheops, -1.0
+pilocarpine HCl, Pilocarpine HCl, -1.0
+GammaGARD S/D, 伽马纳德S/D, -1.0
+INV-Ruxolitinib, 乡村, -1.0
+ruxolitinib, rheops, -1.0
+Rufinamide, 路飞, -1.0
+Divalproex , Divalproex, -1.0
+moxifloxacin, 莫西沙星, -1.0
+celecoxib, 塞来昔布, -1.0
+VESIcare, Vesicare, -1.0
+simvastatin, 辛伐他汀, -1.0
+Pseudoephedrine HCl, 伪麻黄碱HCl, -1.0
+Penicillin G K Desensitization, 青霉素G K脱敏, -1.0
+Fluocinolone Acetonide 0.01% Solution, 氟乙醇酮乙烯剂0.01％溶液, -1.0
+Maraviroc, 马拉维罗克, -1.0
+REVLIMID, Revlimid, -1.0
+Rubella Virus Vaccine, 风疹病毒疫苗, -1.0
+Sirolimus, 西罗里姆斯, -1.0
+Carbidopa-Levodopa CR (50-200), Carbidopa-Levodopa CR（50-200）, -1.0
+Meropenem Desensitization, MeropeNem脱敏, -1.0
+Tigecycline, tigecycline, -1.0
+Volumen (Barium Sulfate 0.1% Suspension), 体积（硫酸钡0.1％悬浮液）, -1.0
+PHENObarbital - ICU Alcohol Withdrawal (Loading Dose 2 and 3), 苯巴比妥 -  ICU戒酒（加载剂量2和3）, -1.0
+PHENObarbital - ICU Alcohol Withdrawal (Loading Dose 1) , 苯巴比妥 -  ICU戒断（加载剂量1）, -1.0
+ZYRtec, Zyrtec, -1.0
+Cyclosporine 0.05% Ophth Emulsion, 环孢菌素0.05％Ophth乳液, -1.0
+Fluorometholone 0.1% Ophth Susp., 氟乙醇酮0.1％ophth案。, -1.0
+Amantadine, 阿曼塔丁, -1.0
+Spiriva Respimat, Spiriva Respimat, -1.0
+Descovy, descovy, -1.0
+Senna Laxative, 塞纳泻药, -1.0
+INV-Enoxaparin, Inv-Enoxaparin, -1.0
+Fluvoxamine Maleate, 氟伏昔胺不满, -1.0
+Valtrex, valtrex, -1.0
+Febuxostat, febosostat, -1.0
+Trifluridine 1% Ophth Soln., 三氟氨酸1％OPHTH溶液。, -1.0
+Claritin, 克拉林蛋白, -1.0
+ARIPiprazole, 阿立哌唑, -1.0
+Magnesium Sulfate (Latex Free), 硫酸镁（不含乳胶）, -1.0
+Dronedarone, Dronedarone, -1.0
+Cilostazol, 西洛唑嗪, -1.0
+Orthopedic Solution, 骨科解决方案, -1.0
+Nysta, NYSTA, -1.0
+Ceftaroline, 头孢直藻, -1.0
+Hydrocortisone Acetate Suppository, 乙酸氢化可的松栓剂, -1.0
+Nicotine Polacrilex, 尼古丁polacrilex, -1.0
+NovoLOG U-100 Insulin aspart, 新的U-100胰岛素阿斯帕特, -1.0
+Insulin Reg Human (NovoLIN R), 胰岛素Reg人类（Novolin R）, -1.0
+Desonide 0.05% Cream, desonide 0.05％奶油, -1.0
+Triazolam, 三唑兰, -1.0
+Testosterone 5mg Patch, 睾丸激素5mg补丁, -1.0
+Testosterone 2.5mg Patch, 睾丸激素2.5mg补丁, -1.0
+Pyridostigmine Bromide SR, 吡啶斯汀溴溴SR, -1.0
+neut, 中性, -1.0
+Rimantadine, Rimantadine, -1.0
+Probenecid, 概率, -1.0
+Mesalamine (Rectal), 美曲胺（直肠）, -1.0
+methylphenidate, 哌醋甲酯, -1.0
+Clobetasol Propionate 0.05% Soln, 丙酸氯沙霉0.05％溶液, -1.0
+Atropine Sulfate Ophth 1%, 阿托品硫酸盐侵略1％, -1.0
+Isosorbide Monon, Isosorbide monon, -1.0
+Viagra, 伟哥, -1.0
+rev, 修订版, -1.0
+reva, Reva, -1.0
+Gammagard Liquid, γ液体, -1.0
+Fosfomycin Tromethamine, fosfomycin tromephamine, -1.0
+Axicabtagene Ciloleucel, axibabtagene cileoleucel, -1.0
+INV-Apixaban, Inv-Hiss, -1.0
+apixaban, apixaban, -1.0
+INV-GO-203-2c, Inv-GO-203-2C, -1.0
+Glucose Tab, 葡萄糖标签, -1.0
+NiMODipine, 尼莫地平, -1.0
+Novolog Flexpen, Novolog flexpen, -1.0
+fenofibrate nanocrystallized, 非诺贝特纳米结构化, -1.0
+HYDROcodone-Acetaminophen (5mg-325mg), 氢可酮 - 乙酰氨基酚（5mg-325mg）, -1.0
+terazosin, 甲唑胺, -1.0
+nebivolol, 尼比洛尔, -1.0
+Levetiracetam, Levetiracetam, -1.0
+*NF* Temozolomide, * nf* temozolomide, -1.0
+colestipol, Colestipol, -1.0
+Chlorothiazide, 氯噻嗪, -1.0
+Buprenorphine, 丁丙诺啡, -1.0
+Buprenorphine-Naloxone (8mg-2mg), 丁丙诺啡 - 诺毒素（8mg-2mg）, -1.0
+Lactic Acid 12% Lotion, 乳酸12％乳液, -1.0
+lansoprazole, 兰索拉唑, -1.0
+Protonix (Granules for DR Suspension), Protonix（用于DR悬浮液的颗粒）, -1.0
+Multivitamins W/minerals Liquid, 具有/矿物质液体的多种维生素, -1.0
+testosterone enanthate, 睾丸激素肠道, -1.0
+omeprazole, 奥美拉唑, -1.0
+Heparin Flush Midline (100 units/ml), 肝素冲洗中线（100单位/毫升）, -1.0
+Depakote, Depakote, -1.0
+CarBAMazepine, 卡马西平, -1.0
+RisperiDONE Oral Solution, 利培酮口服溶液, -1.0
+Fosamprenavir, Fosamprenavir, -1.0
+Sildenafil Citrate, 西地那非柠檬酸盐, -1.0
+Ketoconazole Shampoo, 酮康唑洗发水, -1.0
+glatiramer, 尚拉, -1.0
+Desitin, desitin, -1.0
+Acetylcysteine (IV), 乙酰半胱氨酸（IV）, -1.0
+Buprenorphine-Naloxone Film (4mg-1mg), 丁丙诺啡 - 纳恶酮膜（4mg-1mg）, -1.0
+LaMICtal XR, Lamictal Xr, -1.0
+Buprenorphine-Naloxone Film (8mg-2mg), 丁丙诺啡 - 纳恶酮膜（8mg-2mg）, -1.0
+PHENYLEPHrine (for dilution), 苯肾上腺素（用于稀释）, -1.0
+EPINEPHrine (for dilution), 肾上腺素（稀释）, -1.0
+Santyl, santyl, -1.0
+Propoxyphene Nap.-Apap (N-100), 丙氧苯nap.-apap（N-100）, -1.0
+Triamterene-Hydrochlorothiazide (37.5/25), 三角苯乙烯二氯噻嗪（37.5/25）, -1.0
+Skelaxin, Skelaxin, -1.0
+exemestane, 埃米斯坦, -1.0
+Carmustine, 卡莫斯汀, -1.0
+Melphalan, 梅尔法兰, -1.0
+tetrabenazine, 四苯甲嗪, -1.0
+bude, 将, -1.0
+Methylphenidate, 哌醋甲酯, -1.0
+Mexiletine, 墨西兰, -1.0
+Benzocaine 20% Spray, 苯佐卡因20％喷雾, -1.0
+leflunomide, leflunomide, -1.0
+ValGANCIclovir Oral Solution, Valganciclovir口服溶液, -1.0
+Tromethamine, 葡萄胺, -1.0
+Domperidone, Domperidone, -1.0
+Xiidra, 利顿, -1.0
+Muro 128, 墙128, -1.0
+Combigan 0.2%- 0.5% , 组合0.2％-0.5％, -1.0
+AcetaZOLamide S.R., 乙酸唑胺S.R., -1.0
+Travatan Z, Travatan Z, -1.0
+Nefazodone, Nefazodone, -1.0
+Gamunex/GammaKED, gamunex/伽马犬, -1.0
+PleTAL, 植物, -1.0
+INV-Hydrocortisone, Inv-Hydrocortisone, -1.0
+INV-Thiamine, Inv-Thiamine, -1.0
+INV-Ascorbic Acid, 入甲酸, -1.0
+NexIUM, Nexium, -1.0
+Nexium 24HR, Nexium 24小时, -1.0
+Diluent for REGN1979+0.9% NaCl, Regn1979+0.9％NaCl的稀释剂, -1.0
+Ambisome, 假设, -1.0
+InFLIXimab, 英夫利昔单抗, -1.0
+Venlafaxi, Venlafax, -1.0
+Rivastigmine, Rivastigmine, -1.0
+CeftazIDIME, 头孢济, -1.0
+testosterone, 睾丸激素, -1.0
+ClomiPRAMINE, 氯米帕明, -1.0
+Acarbose, acarbose, -1.0
+Glipizide, Glipizide, -1.0
+Rasagiline, rasagiline, -1.0
+Florastor, 弗洛斯特, -1.0
+LaMIVudine-Zidovudine (Combivir), 拉米夫丁 -  Zidovudine（Combivir）, -1.0
+Atazanavir, 阿塔扎那韦, -1.0
+Isosorbide Mononitrate, 异氧化物单硝酸盐, -1.0
+Ethanol 70% Catheter DWELL, 乙醇70％导管居住, -1.0
+modafinil, 莫达非尼, -1.0
+Paricalcitol, 副醇, -1.0
+Carbamide Peroxide 6.5%, 氨基甲酸酯过氧化物6.5％, -1.0
+RESTASIS, 剩下, -1.0
+Hemorrhoidal Suppository, 痔疮栓剂, -1.0
+Amaryl, amaryl, -1.0
+Januvia, Januvia, -1.0
+enzalutamide, 恩扎拉胺, -1.0
+HYDROmorphone-HP, Hydomorphone-HP, -1.0
+Methadone Inj, 美沙酮ind, -1.0
+Flucytosine, 氟胞嘧啶, -1.0
+methadone, 美沙酮, -1.0
+fenofibrate, 非诺贝特, -1.0
+Desipramine, 描述, -1.0
+Papain 2.5 % Solution, 木瓜木瓜2.5％解决方案, -1.0
+Emtricitabine-Tenofovir alafen (200mg-25mg) *DESCOVY*, Emtricerabine-Tenofovir Alafen（200mg-25mg） *descovy *, -1.0
+OxyCODONE SR (OxyconTIN), 羟考酮SR（Oxycontin）, -0.8571428571428571
+Tiotropium Bromide, tiototropium溴化物, -0.8378378378378378
+Oxcarbazepine, 大西西比, -0.8333333333333334
+Venlafaxine XR, Venlafaxine Xr, -0.8095238095238095
+Fluticasone-Salmeterol Diskus (500/50) , 氟替卡酮 - 钙甲甲醇（500/50）, -0.8
+DiCYCLOmine, 二环球, -0.8
+Phenytoin (Suspension), 苯妥英钠（悬架）, -0.7777777777777778
+ALPRAZolam, 阿普唑仑, -0.7727272727272727
+D5W (EXCEL BAG), D5W（Excel Bag）, -0.75
+DICYCLOMine, 二环球, -0.75
+Chlorthalidone, 氯噻酮, -0.75
+Chlorothiazide Sodium, 氯噻嗪钠, -0.75
+Nicotine Patch, 尼古丁补丁, -0.7450980392156863
+Hydroxychloroquine Sulfate, 羟氯喹硫酸盐, -0.7272727272727273
+Apixaban, apixaban, -0.7183908045977012
+Ezetimibe, Femibo, -0.7142857142857143
+PARoxetine, 帕罗西汀, -0.7142857142857143
+Diphenoxylate-Atropine, 二苯甲酸酯 - 托丁, -0.7142857142857143
+BuPROPion, 安非他酮, -0.7142857142857143
+Fluticasone-Salmeterol Diskus (100/50), 氟替卡酮 - 钙甲甲醇（100/50）, -0.7142857142857143
+Cefpodoxime Proxetil, CEFPODOXIME proxetil, -0.7142857142857143
+Sertraline, 舍曲林, -0.6956521739130435
+Alprazolam, 阿普唑仑, -0.6923076923076923
+Tolterodine, TOLTERODINE, -0.6666666666666666
+Albuterol-Ipratropium, 沙丁胺醇 -  iPratropium, -0.6666666666666666
+Amitriptyline, 阿米替林, -0.6666666666666666
+Duloxetine, 杜洛西汀, -0.6666666666666666
+Pancrelipase 5000, 胰腺酶5000, -0.6666666666666666
+Voriconazole, 伏立康唑, -0.6666666666666666
+Citalopram, QUATAROPRAM, -0.6470588235294118
+Montelukast Sodium, Montelukast钠, -0.6470588235294118
+Ascorbic Acid, 抗坏血酸, -0.6388888888888888
+Rivaroxaban, 利瓦沙班, -0.6363636363636364
+Psyllium Wafer, 木马晶片, -0.6363636363636364
+GuaiFENesin ER, 瓜芬辛是, -0.6363636363636364
+Finasteride, 非那雄胺, -0.6296296296296297
+Fexofenadine, fexofenadine, -0.625
+Clonazepam, 氯硝西ep, -0.6153846153846154
+Efavirenz, eflavirecy, -0.6
+Potassium Chl 20 mEq / 1000 mL D5LR, 钾CHL 20 MEQ / 1000 ML D5LR, -0.6
+Ampicillin, 氨苄青霉素, -0.6
+Divalproex Sod. Sprinkles, Divalproex草皮。小雨, -0.6
+Valproic Acid, 丙戊酸, -0.6
+DULoxetine, 杜洛西汀, -0.6
+LamoTRIgine, 拉莫三嗪, -0.6
+CloNIDine, 可乐定, -0.6
+MethylPHENIDATE (Ritalin), 哌醋甲酯（利他蛋白酶）, -0.6
+Lidocaine 0.5%, 利多卡因0.5％, -0.6
+Ertapenem Sodium, 厄尔特素钠, -0.6
+Heparin (Hemodialysis), 肝素（血液透析）, -0.6
+Lithium Carbonate, 碳酸锂, -0.6
+Memantine, 美容, -0.6
+Fleet Enema (Mineral Oil), 车队灌肠（矿物油）, -0.6
+PHENObarbital - ICU Alcohol Withdrawal (Initial Load / Rescue Dose), 苯巴比妥 -  ICU戒酒（初始负载 /救援剂量）, -0.6
+Vitamin B Complex, 维生素B复合物, -0.6
+Mucinex, Mucinex, -0.6
+Syringe (Iso-Osmotic Dextrose), 注射器（同性渗透性葡萄糖）, -0.5888888888888889
+Miconazole Powder 2%, 红唑粉2％, -0.5869565217391305
+Gabapentin, 加巴喷丁, -0.5864978902953586
+Montelukast, 蒙特鲁克斯特, -0.5833333333333334
+FLUoxetine, 氟西汀, -0.5714285714285714
+Aripiprazole, 阿立哌唑, -0.5555555555555556
+Oxycodone SR (OxyconTIN), 羟考酮SR（Oxycontin）, -0.5555555555555556
+Amiodarone, 胺碘酮, -0.5519413919413919
+Escitalopram Oxalate, 苏瓜酸酯, -0.5454545454545454
+ClonazePAM, 氯硝西ep, -0.5384615384615384
+Divalproex (DELayed Release), Divalproex（延迟释放）, -0.5384615384615384
+Paroxetine, 帕罗西汀, -0.5333333333333333
+OLANZapine, 奥氮平, -0.5294117647058824
+Methadone, 美沙酮, -0.5294117647058824
+Creon 12, 克里昂12, -0.5294117647058824
+Topiramate (Topamax), 托吡酯（topamax）, -0.5238095238095238
+Tizanidine, tizanidine, -0.5238095238095238
+TraZODone, 曲唑酮, -0.5157407407407407
+BuPROPion (Sustained Release), 安非他酮（持续释放）, -0.5111111111111111
+AcetaZOLamide Sodium, 乙酰唑胺钠, -0.5
+Fish Oil (Omega 3), 鱼油（欧米茄3）, -0.5
+5% Dextrose (EXCEL BAG), 5％葡萄糖（Excel Bag）, -0.5
+Ranexa, 可划分, -0.5
+Carbidopa-Levodopa (25-100), Carbidopa-Levodopa（25-100）, -0.5
+Psyllium Powder, 冠状粉, -0.5
+rOPINIRole, ropinirole, -0.5
+Heparin Flush PICC (100 units/ml), 肝素冲洗PICC（100单位/毫升）, -0.5
+Loperamide, Loperamide, -0.5
+Mannitol 20%, 甘露醇20％, -0.5
+Mineral Oil, 矿物油, -0.5
+Blue CADD Cassette, 蓝色CADD盒, -0.5
+Ropivacaine 0.2%, ropivacaine 0.2％, -0.5
+Psyllium, 木马, -0.5
+Methylnaltrexone, 甲基甲己酮, -0.5
+Mupirocin Cream 2%, 穆匹罗金蛋白霜2％, -0.5
+Estrogens Conjugated, 雌激素共轭, -0.5
+Diazepam - CIWA protocol, 地西eepam -CIWA协议, -0.5
+Nicotine Lozenge, 尼古丁lozenge, -0.5
+Nitrofurantoin Monohyd (MacroBID), 硝基氟氨酸一单氢（大焦点）, -0.5
+OSELTAMivir, 奥斯塔米维尔, -0.5
+Nystatin Ointment, Nystatin软膏, -0.5
+Hydrocortisone Cream 0.5%, 氢化可的松奶油0.5％, -0.5
+Tucks Hemorrhoidal Oint 1%, tucks痔疮果1％, -0.5
+Anastrozole, 阿斯特罗, -0.5
+Sulfameth/Trimethoprim, 硫酸/甲氧苄啶, -0.5
+Clobetasol Propionate 0.05% Cream, 丙酸氯沙毒素0.05％奶油, -0.5
+Diazepam, 地西ep, -0.497584541062802
+Fluticasone Propionate 110mcg, 氟替卡酮丙酸110mcg, -0.4857142857142857
+Citalopram Hydrobromide, 西妥位丙酰基氢胺, -0.4782608695652174
+Emtricitabine-Tenofovir (Truvada), Emricitabine-tember（Trivada）, -0.45454545454545453
+MetFORMIN XR (Glucophage XR), 二甲双胍XR（Glucophage XR）, -0.45454545454545453
+Insulin Glargine  (CVICU Protocol), 胰岛素甘蓝（CVICU方案）, -0.4473684210526316
+Clopidogrel, 氯吡格雷, -0.44607843137254904
+Potassium Chl 40 mEq / 1000 mL D5 1/2 NS, 钾CHL 40 MEQ / 1000 ML D5 1/2 NS, -0.4444444444444444
+Rosuvastatin Calcium, 沙伐汀钙, -0.4375
+PHENYLEPHrine, 苯肾上腺素, -0.43705673758865243
+Loratadine, 洛拉塔丁, -0.43478260869565216
+Zolpidem Tartrate, Zolpidem tartrate, -0.4308510638297872
+Hydrochlorothiazide, 氢氯噻嗪, -0.43023255813953487
+Fleet Enema, 舰队灌肠, -0.42857142857142855
+Cephalexin, 头甲胺, -0.42857142857142855
+Metolazone, metolazone, -0.42857142857142855
+AMP, 放大器, -0.42857142857142855
+Ketamine, 氯胺酮, -0.42857142857142855
+Tobramycin Sulfate, 二霉素硫酸盐, -0.42857142857142855
+CARBOplatin, 卡铂, -0.42857142857142855
+Digoxin, 地高辛, -0.4261904761904762
+EPINEPHrine, 肾上腺素, -0.4235294117647058
+Azithromycin , 阿奇霉素, -0.4117647058823529
+DOPamine, 多巴胺, -0.4117647058823529
+HydrALAZINE, 氢化嗪, -0.40189873417721517
+Neostigmine, 新斯蒂芬, -0.4
+Phenytoin Sodium Extended, 苯妥因钠延伸, -0.4
+Simvastatin, 辛伐他汀, -0.3998073217726396
+HYDROmorphone, 氢phone, -0.3968253968253968
+Cyanocobalamin, 蓝葡萄糖, -0.3958333333333333
+Albumin 5% (25g / 500mL), 白蛋白5％（25G / 500ml）, -0.3953488372093023
+Lisinopril, 赖诺普利, -0.39425139425139427
+LORazepam, 劳拉西m, -0.38941323534346794
+TraMADol, 曲马多, -0.3875
+Magnesium Oxide, 氧化镁, -0.38596491228070173
+Morphine Sulfate IR, 吗啡硫酸盐IR, -0.38461538461538464
+Cepastat (Phenol) Lozenge, cepastat（苯酚）lozenge, -0.38461538461538464
+TraMADOL (Ultram), 曲马多（Ultram）, -0.3782608695652174
+Aspirin, 阿司匹林, -0.37596302003081666
+PNEUMOcoccal Vac Polyvalent, 肺炎球菌VAC多价, -0.375
+Protamine Sulfate, 硫酸蛋白酶, -0.375
+Phenytoin Sodium, 苯妥英钠钠, -0.375
+GlyBURIDE, 格利伯德, -0.375
+Aspirin EC, 阿司匹林EC, -0.36477987421383645
+Warfarin, 华法林, -0.3591506194954471
+Doxycycline Hyclate, 强力霉素盐酸盐, -0.35714285714285715
+FoLIC Acid, 叶酸, -0.35522598870056493
+Omeprazole, 奥美拉唑, -0.35374149659863946
+CeFAZolin, 头孢唑林, -0.3488372093023256
+Levothyroxine Sodium, 左甲状腺素钠, -0.3453815261044177
+PNEUMOcoccal 23-valent polysaccharide vaccine, 肺炎球菌23价多糖疫苗, -0.34420289855072467
+Atorvastatin, 阿托伐他汀, -0.3408792650918635
+Mupirocin Ointment 2%, Mupirocin软膏2％, -0.34
+traZODONE, 曲唑酮, -0.3360655737704918
+Fluticasone-Salmeterol Diskus (250/50) , 氟替卡酮 - 钙甲甲醇（250/50）, -0.3333333333333333
+Belladonna & Opium (16.2/30mg), 贝拉多纳和鸦片（16.2/30毫克）, -0.3333333333333333
+Sodium Chloride 3% Inhalation Soln, 氯化钠3％吸入溶液, -0.3333333333333333
+Fludrocortisone Acetate, 乙酸氟拉多生酮, -0.3333333333333333
+Nortriptyline, Nortriptyline, -0.3333333333333333
+Albuterol, Albuterol, -0.3333333333333333
+Dextromethorphan Poly Complex, 右美感元素络合物, -0.3333333333333333
+Terazosin, 甲唑胺, -0.3333333333333333
+Triamterene-Hydrochlorothiazide, 三角烯二氯噻嗪, -0.3333333333333333
+Fosphenytoin, 磷烯滋养, -0.3333333333333333
+Ferrous Sulfate (Liquid), 亚铁硫酸盐（液体）, -0.3333333333333333
+Propofol 1000mg/100mL 100mL VIAL, 丙泊酚1000 mg/100 ml 100ml小瓶, -0.3333333333333333
+Glycopyrrolate (CVICU Reversal Protocol), 糖吡啶甲酸（CVICU逆转协议）, -0.3333333333333333
+Neostigmine (CVICU Reversal Protocol), Neostigmine（CVICU逆转协议）, -0.3333333333333333
+Capsaicin 0.025%, 辣椒素0.025％, -0.3333333333333333
+Nitroglycerin Ointment  2%, 硝酸甘油软膏2％, -0.3333333333333333
+Metoprolol, 美托洛尔, -0.3333333333333333
+Enalapril Maleate, enalapril maleate, -0.3333333333333333
+Fenofibrate, 非诺贝特, -0.3333333333333333
+Ganciclovir, Ganciclovir, -0.3333333333333333
+Epinephrine, 肾上腺素, -0.3333333333333333
+Perphenazine, 泛素嗪, -0.3333333333333333
+OxyCODONE Liquid, 羟考酮液体, -0.3333333333333333
+Ifosfamide, ifosfamide, -0.3333333333333333
+Metoprolol XL (Toprol XL), 美托洛尔XL（Toprol XL）, -0.3333333333333333
+Milrinone, Milrinone, -0.3333333333333333
+glimepiride, 格里普里德, -0.3333333333333333
+Quetiapine extended-release, 喹硫平延长释放, -0.3333333333333333
+Sodium Chloride 0.9%  (Mini Bag Plus), 氯化钠0.9％（迷你袋Plus）, -0.3333333333333333
+Ipratropium-Albuterol Neb, ipratropium-albuterol neb, -0.33061224489795915
+Azithromycin, 阿奇霉素, -0.32727272727272727
+Thiamine, 硫胺素, -0.3263888888888889
+Albuterol Inhaler, Albuterol吸入器, -0.3236111111111111
+Cyclobenzaprine, 环苯二磷, -0.3225806451612903
+Lidocaine 5% Patch, 利多卡因5％补丁, -0.32222222222222224
+LevETIRAcetam, Levetiracetam, -0.32051282051282054
+Insulin Human Regular, 胰岛素人常规, -0.3192771084337349
+Atenolol, atenolol, -0.30357142857142855
+Magnesium Citrate, 柠檬酸镁, -0.2972972972972973
+Artificial Tears Preserv. Free, 人造眼泪保存。自由的, -0.29411764705882354
+Haloperidol, 氟哌啶醇, -0.2916666666666667
+Mirtazapine, 米氮平, -0.29069767441860467
+Nitroglycerin, 硝酸甘油, -0.28981481481481486
+Ranitidine, ranitidine, -0.2895104895104895
+Atropine Sulfate, 阿托品硫酸盐, -0.28888888888888886
+Fentanyl Patch, 芬太尼斑块, -0.2888198757763975
+Fluticasone Propionate NASAL, 氟替卡松丙酸酯鼻, -0.28688524590163933
+Piperacillin-Tazobactam Na, 哌拉西林tazobactam NA, -0.2857142857142857
+Donepezil, 多匹兹尔, -0.2857142857142857
+Multivitamins, 多种维生素, -0.2840740740740741
+CeftriaXONE, 头孢曲松, -0.2833333333333333
+Metoprolol Succinate XL, 美托洛尔琥珀酸酯XL, -0.2793560606060606
+Nitroglycerin SL, 硝酸甘油SL, -0.2792207792207792
+Ramelteon, 拉梅尔特恩, -0.2727272727272727
+Ferrous Sulfate, 亚铁硫酸盐, -0.2727272727272727
+0.9 % Sodium Chloride, 0.9％氯化钠, -0.2727272727272727
+Lorazepam, 劳拉西m, -0.2720909305481796
+Ipratropium Bromide Neb, 溴化溴盐, -0.2685897435897436
+Phytonadione, phytonadione, -0.2684051398337113
+Aluminum-Magnesium Hydrox.-Simethicone, 铝 - 羟基甲基甲基甲基甲基, -0.26666666666666666
+Acetylcysteine 20%, 乙酰半胱氨酸20％, -0.26595744680851063
+Hydrocodone-Acetaminophen, 氢可酮 - 乙酰氨基酚, -0.2647058823529412
+Diltiazem Extended-Release, Diltiazem扩展释放, -0.2647058823529412
+Metoprolol Tartrate, 美托洛洛洛洛尔, -0.2619079888117899
+Syringe, 注射器, -0.2604529616724739
+Vasopressin, 加压素, -0.25555555555555554
+Albuterol 0.083% Neb Soln, Albuterol 0.083％NEB溶液, -0.2542682926829268
+Megestrol Acetate, 醋酸酯, -0.25
+Hydrocodone-Acetaminophen (5mg-325mg), 氢可酮 - 乙酰氨基酚（5mg-325mg）, -0.25
+Phenytoin, 苯托因, -0.25
+Lidocaine Jelly 2%, 利多卡因果冻2％, -0.25
+Valproate Sodium, 瓣膜钠, -0.25
+Epinephrine 1:1000, 肾上腺素1：1000, -0.25
+OxyCODONE--Acetaminophen (5mg-325mg), 羟考酮 - 乙酰氨基酚（5mg-325mg）, -0.25
+Fleet Enema (Saline), 舰队灌肠（盐水）, -0.25
+Bumetanide, bumetanide, -0.25
+CefazoLIN, 头孢唑林, -0.24592391304347827
+Furosemide, 速尿, -0.24182179573465085
+Mupirocin Nasal Ointment 2%, 穆匹罗蛋白鼻软膏2％, -0.23333333333333334
+Ranitidine (Liquid), 兰替丁（液体）, -0.23076923076923078
+Cisatracurium Besylate, 贝酰酸甲酯, -0.23076923076923078
+HYDROmorphone (Dilaudid), 氢气电话（Dilaudid）, -0.22920428020784844
+Spironolactone, 螺内酯, -0.22580645161290322
+Tamsulosin, Tamsulos, -0.22522522522522523
+Propofol, 丙泊酚, -0.22259507829977626
+Daptomycin, Daptomycin, -0.2222222222222222
+Midodrine, 中山, -0.21785714285714283
+QUEtiapine Fumarate, 喹硫平, -0.2168262653898769
+Phenylephrine, 苯肾上腺素, -0.21666666666666667
+Clindamycin, 克林霉素, -0.21568627450980393
+Chlorhexidine Gluconate 0.12% Oral Rinse, 氯己定葡萄糖酸0.12％口服冲洗, -0.21527777777777776
+Vitamin D, 维生素D, -0.21017699115044247
+Bag, 包, -0.20967168044373927
+Polyethylene Glycol, 聚乙二醇, -0.20946275946275944
+Magnesium Sulfate, 硫酸镁, -0.20784348337746397
+Ursodiol, Ursodiol, -0.20689655172413793
+Sodium Chloride 0.9%, 氯化钠0.9％, -0.20346284150631977
+Iso-Osmotic Dextrose, 等渗透葡萄糖, -0.20154104408136664
+Succinylcholine, 琥珀酰胆碱, -0.2
+RITUXimab, 利妥昔单抗, -0.2
+Mouth Care Oral Rinse, 口腔护理口腔冲洗, -0.2
+Potassium Citrate, 柠檬酸钾, -0.2
+Zinc Sulfate, 硫酸锌, -0.2
+Maalox/Lidocaine, Maalox/Lidocaine, -0.2
+Potassium Chl 40 mEq / 1000 mL D5NS, 钾CHL 40 MEQ / 1000毫升D5NS, -0.2
+Ferric Gluconate, 铁葡萄糖酸酯, -0.2
+Promethazine HCl, 异丙嗪HCl, -0.2
+Argatroban, Argatroban, -0.2
+CycloPHOSphamide, 环磷酰胺, -0.2
+Lactulose Enema, 乳乳灌肠, -0.2
+Guaifenesin-CODEINE Phosphate, 肠磷酸肠磷酸盐, -0.2
+Miconazole 2% Cream, 米其唑2％奶油, -0.2
+Sodium Glycerophosphate, 甘油磷酸钠, -0.2
+Viaflex Bag, Viaflex袋, -0.2
+Vitamin B Complex w/C, 维生素B络合物w/c, -0.2
+Clonidine Patch 0.3 mg/24 hr, 可乐定贴剂0.3 mg/24小时, -0.2
+Miralax, miralax, -0.2
+Ferrous Gluconate, 亚铁葡萄糖酸盐, -0.2
+Soln, Soln, -0.19420210832424573
+Chloraseptic Throat Spray, 氯腹性喉咙喷雾, -0.1935483870967742
+Vancomycin Oral Liquid, 万古霉素口服液体, -0.1935483870967742
+Octreotide Acetate, 醋酸乙酸酯, -0.19298245614035087
+PredniSONE, 强的松, -0.19135745207173777
+Acetaminophen IV, 对乙酰氨基酚IV, -0.19053857350800582
+Cepacol (Menthol), 西巴索尔（薄荷醇）, -0.1891891891891892
+Lidocaine 1%, 利多卡因1％, -0.1865671641791045
+amLODIPine, 氨氯地平, -0.18601190476190474
+Cepacol (Sore Throat Lozenge), cepacol（喉咙痛lozenge）, -0.18571428571428572
+Yellow CADD Cassette, 黄色CADD盒, -0.18518518518518517
+Pneumococcal Vac Polyvalent, 肺炎球菌VAC多价, -0.18383838383838383
+NiCARdipine IV, 尼古丁四世, -0.1794871794871795
+Potassium Chl 20 mEq / 1000 mL D5 1/2 NS, 钾CHL 20 MEQ / 1000 ML D5 1/2 NS, -0.17536630036630038
+Valsartan, 瓦尔萨坦, -0.17346938775510204
+Insulin, 胰岛素, -0.17252209222282067
+0.9% NaCl (EXCEL/ViaFLO BAG), 0.9％NaCl（Excel/Viaflo Bag）, -0.16666666666666669
+Olanzapine, 奥氮平, -0.16666666666666666
+Gelclair, Gelclair, -0.16666666666666666
+0.83% Sodium Chloride, 0.83％氯化钠, -0.16666666666666666
+Baclofen, 巴氯芬, -0.16666666666666666
+Senna, 塞纳, -0.16481481481481483
+Losartan Potassium, 莱萨坦钾, -0.1646586345381526
+Fluoxetine, 氟西汀, -0.16279069767441862
+Pantoprazole Sodium, pantraprozole钠, -0.15925925925925927
+Glucagon, 胰高血糖素, -0.15808491418247517
+Lidocaine 1% (For PICC/Midline Insertions), 利多卡因1％（用于PICC/中线插入）, -0.1568627450980392
+Diltiazem, 迪尔蒂亚兹, -0.15641534391534392
+Promethazine, 异丙嗪, -0.15555555555555556
+SW, SW, -0.15533629429733328
+Rifaximin, 参考, -0.15384615384615385
+DOXOrubicin, 阿霉素, -0.15217391304347827
+Vancomycin, 万古霉素, -0.15105470583633238
+0.45% Sodium Chloride, 0.45％氯化钠, -0.14942528735632185
+Dextrose 50%, 葡萄糖50％, -0.14763128901946382
+Isosorbide Mononitrate (Extended Release), 异森质单硝酸盐（扩展释放）, -0.14654088050314465
+Glycopyrrolate, 糖吡喃, -0.14516129032258066
+CloniDINE, 可乐定, -0.14285714285714285
+Hydrocodone-Acetaminophen (5mg-500mg), 氢可酮 - 乙酰氨基酚（5mg-500mg）, -0.14285714285714285
+Guaifenesin, 瓜芬辛, -0.14285714285714285
+Lidocaine 1%/Epinephrine 1:100000, 利多卡因1％/肾上腺素1：100000, -0.14285714285714285
+Ciprofloxacin, 环丙沙星, -0.14285714285714285
+Guaifenesin ER, 瓜芬辛是, -0.14285714285714285
+Hydrocortisone Cream 1%, 氢化可的松霜1％, -0.14285714285714285
+Lidocaine 5% Ointment, 利多卡因5％软膏, -0.14285714285714285
+NIFEdipine (Extended Release), 硝苯地平（扩展释放）, -0.14285714285714285
+Risperidone, 利培酮, -0.14285714285714285
+Calcium Chloride, 氯化钙, -0.14285714285714285
+Hydrocortisone, 氢化可的松, -0.14285714285714285
+Pantoprazole, pantroprazole, -0.14224416053684347
+Sulfameth/Trimethoprim DS, 硫酸/甲甲氧苄啶DS, -0.13953488372093023
+MetFORMIN (Glucophage), 二甲双胍（葡萄糖量）, -0.1393939393939394
+Lidocaine Jelly 2% (Urojet), 利多卡因果冻2％（urojet）, -0.13924050632911392
+Heparin, 肝素, -0.13708307845536105
+Etoposide, 依托泊苷, -0.13636363636363635
+Cetirizine, cetirizine, -0.13636363636363635
+OxycoDONE (Immediate Release) , 羟考酮（立即释放）, -0.13630630630630633
+Calcitriol, 钙三醇, -0.13333333333333333
+Glucose Gel, 葡萄糖凝胶, -0.13095238095238096
+Colchicine, 秋水仙碱, -0.13043478260869565
+Potassium Chloride, 氯化钾, -0.1301959538485382
+D5LR, 输入, -0.12790697674418605
+TiCAGRELOR, ticagrelor, -0.125
+Filgrastim, Filgrastim, -0.125
+Allopurinol, 别嘌醇, -0.12452107279693488
+Enoxaparin Sodium, Enoxaparin钠, -0.12362637362637363
+Morphine Sulfate, 吗啡硫酸盐, -0.12282075122721774
+LeVETiracetam, Levetiracetam, -0.1185897435897436
+Amoxicillin-Clavulanic Acid, 阿莫西林 - 克拉维酸, -0.11363636363636363
+Phosphorus, 磷, -0.1125
+Meperidine, 牛皮动物, -0.1111111111111111
+Levalbuterol Neb, Levalbuterol Neb, -0.1111111111111111
+GammaGARD Liquid, γ液体, -0.1111111111111111
+ValACYclovir, Valacyclovir, -0.1111111111111111
+Methimazole, 甲咪唑, -0.1111111111111111
+CARVedilol, 卡维洛尔, -0.1111111111111111
+D5 1/2NS, D5 1/2NS, -0.1105446623093682
+Albumin 5% (12.5g / 250mL), 白蛋白5％（12.5g / 250ml）, -0.10869565217391304
+LOPERamide, Loperamide, -0.10810810810810811
+Carvedilol, 卡维洛尔, -0.10638297872340426
+Heparin Sodium, 肝素钠, -0.10354160121392167
+Morphine SR (MS Contin), 吗啡SR（MS Contin）, -0.10344827586206896
+HydrOXYzine, 羟嗪, -0.10344827586206896
+Linezolid, lineZolid, -0.1
+D5W, D5W, -0.09907789705477568
+MetRONIDAZOLE (FLagyl), 甲硝唑（鞭毛）, -0.09854014598540146
+1/2 NS, 1/2 ns, -0.0949874686716792
+NS (Mini Bag Plus), NS（迷你包Plus）, -0.09444444444444444
+Multivitamins W/minerals, 具有/矿物质的多种维生素, -0.09289617486338797
+Levofloxacin, 左氧氟沙星, -0.0914855072463768
+Phenazopyridine, 苯并吡啶, -0.09090909090909091
+Pregabalin, pregabalin, -0.09090909090909091
+Sumatriptan Succinate, 苏门普坦琥珀酸酯, -0.09090909090909091
+Prismasate (B32 K2), Prismasate（B32 K2）, -0.09090909090909091
+Venlafaxine, 文拉法辛, -0.09090909090909091
+Soln., Soln。, -0.09090909090909091
+Doxazosin, 多沙唑嗪, -0.09090909090909091
+Readi-Cat 2 (Barium Sulfate 2% Suspension), Readi-Cat 2（硫酸钡2％悬浮液）, -0.08823529411764706
+Meropenem, MeropeNem, -0.08666666666666666
+Fentanyl Citrate, 柠檬酸芬太尼, -0.08662551440329218
+Dexmedetomidine, 右美托胺, -0.08653846153846154
+OxyCODONE (Immediate Release), 羟考酮（立即释放）, -0.08624404761904762
+Quetiapine Fumarate, 喹硫平, -0.08602150537634408
+Bupivacaine 0.1%, 布比卡因0.1％, -0.08571428571428572
+DiphenhydrAMINE, 苯胺胺, -0.08533653846153846
+Sodium Chloride 0.9%  Flush, 氯化钠0.9％冲洗, -0.08491138395875779
+Amlodipine, 氨氯地平, -0.08333333333333333
+Maalox/Diphenhydramine/Lidocaine, Maalox/二苯胺/利多卡因, -0.08333333333333333
+Filgrastim-sndz, filgrastim-sndz, -0.08333333333333333
+Vial, 小瓶, -0.07890747261345853
+5% Dextrose, 5％葡萄糖, -0.07816797546728993
+Acetaminophen-Caff-Butalbital, 对乙酰氨基酚 - 丁香酸, -0.07692307692307693
+Dorzolamide 2%/Timolol 0.5% Ophth., 多唑胺2％/蒂莫洛0.5％OPHTH。, -0.07692307692307693
+0.9% Sodium Chloride, 0.9％氯化钠, -0.07347621584280321
+Sodium Phosphate, 磷酸钠, -0.07333333333333333
+Neutra-Phos, 中性, -0.07319932998324959
+Albumin 25% (12.5g / 50mL), 白蛋白25％（12.5g / 50ml）, -0.0725
+Golytely, golytely, -0.07142857142857142
+Olanzapine (Disintegrating Tablet), 奥氮平（分解片剂）, -0.06666666666666667
+Norepinephrine, 去甲肾上腺素, -0.06666666666666667
+Timolol Maleate 0.5%, Timolol Maleate 0.5％, -0.06666666666666667
+Bacitracin Ointment, 杆菌素软膏, -0.06666666666666667
+Oxymetazoline, 羟甲唑啉, -0.06666666666666667
+Ciprofloxacin HCl, 环丙沙星HCl, -0.06481481481481481
+Sterile Water, 无菌水, -0.06406440781440781
+Calcium Gluconate, 葡萄糖酸钙, -0.06352106227106226
+Prochlorperazine, 氯吡嗪, -0.0618101545253863
+Docusate Sodium (Liquid), 钠钠（液体）, -0.058823529411764705
+Latanoprost 0.005% Ophth. Soln., LATANOPOST 0.005％OPHTH。Soln。, -0.05813953488372093
+Heparin Flush (10 units/ml), 肝素冲洗（10单位/毫升）, -0.05344444444444445
+CefePIME, 头头, -0.05
+Lactulose, 乳糖, -0.048214285714285716
+Mesna, 肉, -0.047619047619047616
+Dextrose 5%, 葡萄糖5％, -0.04509803921568628
+MoviPrep, Moviprep, -0.044444444444444446
+Sarna Lotion, 萨纳乳液, -0.04040404040404041
+0.9% Sodium Chloride (Mini Bag Plus), 0.9％氯化钠（Mini Bag Plus）, -0.03583120748299319
+Ondansetron ODT, Ondansetron ODT, -0.02857142857142857
+Sucralfate, 瓜酸盐, -0.02631578947368421
+Influenza Virus Vaccine, 流感病毒疫苗, -0.02439024390243903
+CefTRIAXone, 头孢曲松, -0.023224043715846993
+Nadolol, 纳多洛, -0.021739130434782608
+Acetaminophen, 对乙酰氨基酚, -0.02163772332905525
+Piperacillin-Tazobactam, 哌拉西林tazobactam, -0.019734432234432227
+Gastroview (Diatrizoate Meglumine & Sodium), 胃肠道（腹膜内巨蛋白和钠）, -0.018518518518518528
+Pravastatin, pravastatin, -0.014925373134328358
+Nephrocaps, 肾胶囊, -0.01282051282051282
+HydrALAzine, 氢化嗪, -0.01083333333333333
+Ampicillin-Sulbactam, 氨苄青霉素 - 硫糖, -0.010658914728682174
+Midazolam, 咪达唑仑, -0.009496124031007748
+Influenza Vaccine Quadrivalent, 流感疫苗四价, -0.006337135614702157
+Ondansetron, ondansetron, -0.004268165920708289
+Verapamil SR, Verapamil Sr, 0.0
+Fluorouracil, 氟尿嘧啶, 0.0
+Calcium Acetate, 乙酸钙, 0.0
+Syringe (0.9% Sodium Chloride), 注射器（0.9％氯化钠）, 0.0
+Bisacodyl (Rectal), Bisacodyl（直肠）, 0.0
+D5NS, D5NS, 0.0
+Lidocaine Viscous 2%, 利多卡因粘性2％, 0.0
+Sodium CITRATE 4%, 柠檬酸钠4％, 0.0
+Indomethacin, 放氨基霉素, 0.0
+Opium Tincture (morphine 10 mg/mL), 鸦片tin剂（吗啡10 mg/ml）, 0.0
+Lidocaine Jelly 2% (Glydo), 利多卡因果冻2％（Glydo）, 0.0
+GlipiZIDE, Glipizide, 0.0
+Nystatin Cream, nystatin奶油, 0.0
+LevoFLOXacin, 左氧氟沙星, 0.0
+Nafcillin, 纳夫西林, 0.0
+NS Epidural Bag, NS硬膜外袋, 0.0
+Mycophenolate Mofetil Suspension, 霉酚酸酯悬浮液, 0.0
+Potassium Chl 40 mEq / 1000 mL NS, 钾CHL 40 MEQ / 1000毫升NS, 0.0
+Mannitol 20 %, 甘露醇20％, 0.0
+Meclizine, 麦芽济, 0.0
+Miconazole Nitrate (Combo Pack), 米其唑硝酸盐（组合包）, 0.0
+Modafinil, 莫达非尼, 0.0
+Pantoprazole (Granules for DR Suspension), pantraprazole（用于DR悬浮剂的颗粒）, 0.0
+Triamterene-HCTZ (37.5/25), triamterene-hctz（37.5/25）, 0.0
+Dorzolamide 2% Ophth. Soln., 多唑胺2％ophth。Soln。, 0.0
+Syringe (Intraventricular), 注射器（室内）, 0.0
+Methylprednisolone, 甲基丙糖酮, 0.0
+Penicillin G Potassium, 青霉素G钾, 0.0
+Prismasate (B22 K4), Prismasate（B22 K4）, 0.0
+Heparin Flush CRRT (5000 Units/mL), 肝素冲洗CRRT（5000单位/毫升）, 0.0
+Clonidine Patch 0.1 mg/24 hr, 可乐定贴剂0.1 mg/24小时, 0.0
+Fluocinonide 0.05% Ointment, 0.05％软膏, 0.0
+Nystatin, nystatin, 0.0
+Bottle, 瓶子, 0.0
+Guaifenesin-Dextromethorphan, 肠甲状腺甲状腺素, 0.0
+Irinotecan, Irinotecan, 0.0
+Gemfibrozil, Gemfibrozil, 0.0
+Cinacalcet, 骨骼, 0.0
+Gentamicin 0.1% Cream, 庆大霉素0.1％奶油, 0.0
+budesonide, 布德索德, 0.0
+Desmopressin Nasal, 去氨加压素鼻, 0.0
+Ascorbic Acid (Liquid), 抗坏血酸（液体）, 0.0
+Morphine Sulfate (Concentrated Oral Soln), 吗啡硫酸盐（浓缩液溶液）, 0.0
+Alteplase 1mg/1mL ( Clearance ie. Temp TLCL ), Alteplase 1mg/1ml（清除率，即tlcl）, 0.0
+Morphine Sulfate (Oral Solution) 2 mg/mL, 吗啡硫酸盐（口服溶液）2 mg/ml, 0.0
+Artificial Tears GEL 1%, 人造眼泪凝胶1％, 0.0
+Albuterol MDI, Albuterol MDI, 0.0
+PrednisoLONE Acetate 0.12% Ophth. Susp., 醋酸泼尼松酮0.12％ophth。涉嫌。, 0.0
+Xopenex Neb, Xopenex Neb, 0.0
+Flecainide Acetate, 醋酸氟替尼, 0.0
+Hydrocodone-Acetaminophen (5mg-500mg, 氢可酮 - 乙酰氨基酚（5mg-500mg, 0.0
+Myfortic, myfortic, 0.0
+Silver Nitrate Applicator, 硝酸银涂料器, 0.0
+Celecoxib, 塞来昔布, 0.0
+Multivitamin IV, 多种维生素IV, 0.0
+Methyldopa, Methldopa, 0.0
+Esmolol, Esmolol, 0.0
+MENINGOcoccal Conj Vaccine (Menactra), 脑膜炎球菌CONJ疫苗（Menactra）, 0.0
+Haemophilus B Conj. Vaccine, 嗜血杆菌B conj。疫苗, 0.0
+Bacitracin-Polymyxin Ointment, 杆菌蛋白 - 淋巴细胞软膏, 0.0
+Fluphenazine, fluphenazine, 0.0
+Lubiprostone, lubiprostone, 0.0
+Iron Polysaccharides Complex, 铁多糖复合物, 0.0
+Aminocaproic Acid, 氨基酸酸, 0.0
+Bengay, Bengay, 0.0
+Lanthanum, 镧, 0.0
+Ranolazine ER, 雷诺嗪是, 0.0
+Witch Hazel 50% Pad, 女巫榛树50％垫, 0.0
+Posaconazole Suspension, popaconazole悬架, 0.0
+Amino Acids 4.25% W/ Dextrose 5%, 氨基酸4.25％w/ dextrose 5％, 0.0
+Donnatol, 唐纳塔尔, 0.0
+Hepatitis A Vaccine, 肝炎疫苗, 0.0
+Mycophenolate Sodium DR, 霉酚酸钠DR, 0.0
+Pulmicort Flexhaler, PULMICORT FLEXHALER, 0.0
+travoprost, travoprost, 0.0
+Lidocaine 1% P.F., 利多卡因1％p.f., 0.0
+Docusate , 记录, 0.0
+Estradiol, 雌二醇, 0.0
+Oseltamivir, 奥斯塔米维尔, 0.0
+Heparin Flush Port (10 units/mL), 肝素冲洗端口（10单位/毫升）, 0.0
+MethylPREDNISolone Na Suc, 甲基强酮Na Suc, 0.0
+Ramipril, 拉米普里, 0.0
+Dipyridamole-Aspirin, 二吡啶胺 - 阿斯皮林, 0.0
+Heparin Flush (5000 Units/mL), 肝素冲洗（5000单位/毫升）, 0.0
+Divalproex (EXTended Release), Divalproex（扩展版本）, 0.0
+Fondaparinux Sodium, Fondaparinux钠, 0.0
+LeVETiracetam Oral Solution, Levetiracetam口服溶液, 0.0
+Methocarbamol, 甲氧甲摩尔, 0.0
+RISperidone, 利培酮, 0.0
+Bismuth Subsalicylate, 二甲状腺素, 0.0
+Syringe (LR), 注射器（LR）, 0.0
+Carboprost Tromethamine, 卡伯前列氨基胺, 0.0
+Dornase alfa, alpha dornase, 0.0
+Bacitracin, 杆菌蛋白, 0.0
+Ferrous GLUCONATE, 亚铁葡萄糖酸盐, 0.0
+Clozapine, 氯氮平, 0.0
+Fludarabine Phosphate, 氟达拉滨磷酸盐, 0.0
+Insulin Pump (Self Administering Medication), 胰岛素泵（自我服药）, 0.0
+NS (Irrigation Bottle), NS（灌溉瓶）, 0.0
+Vancomycin Enema, 万古霉素灌肠, 0.0
+MethIMAzole, 甲咪唑, 0.0
+OXcarbazepine, 大西西比, 0.0
+Naltrexone, 纳曲酮, 0.0
+Dextroamphetamine, 右旋苯丙胺, 0.0
+Isavuconazonium Sulfate, 硫酸岩酮, 0.0
+rifAXIMin, 参考, 0.0
+Potassium Phosphate, 磷酸钾, 0.002777777777777772
+Heparin Flush (100 units/ml), 肝素冲洗（100单位/毫升）, 0.005319148936170213
+Iso-Osmotic Sodium Chloride, 等渗氯化钠, 0.009554140127388535
+Famotidine, Famotidine, 0.013139695712309826
+Fluconazole, 氟康唑, 0.015686274509803918
+NS, NS, 0.01799171842650104
+NORepinephrine, 去甲肾上腺素, 0.026936026936026942
+Ipratropium Bromide MDI, 溴溴溴化物MDI, 0.027777777777777776
+Heparin Dwell (1000 Units/mL), 肝素住宅（1000单位/毫升）, 0.02867965367965369
+Docusate Sodium, 多库酯钠, 0.030174473523365008
+Acyclovir, Acyclovir, 0.031520562770562775
+Calcium Replacement (Oncology), 钙替代（肿瘤学）, 0.041666666666666664
+Captopril, 卡托普利, 0.043478260869565216
+Artificial Tear Ointment, 人造撕裂软膏, 0.043478260869565216
+Atovaquone Suspension, atovaquone悬架, 0.045454545454545456
+Neomycin-Polymyxin-Bacitracin, 新霉素 - 甲状腺素 - 巴西替特, 0.046296296296296294
+Ciprofloxacin IV, 环丙沙星IV, 0.047619047619047616
+VinCRIStine (Oncovin), 长春新碱（oncovin）, 0.047619047619047616
+CefTAZidime, 头孢济, 0.047619047619047616
+Brimonidine Tartrate 0.15% Ophth., Brimonidine tartrate 0.15％Ophth。, 0.05263157894736842
+Hydrocerin, 氢克蛋白, 0.05555555555555555
+MetroNIDAZOLE, 甲硝唑, 0.059139784946236576
+MethylPREDNISolone Sodium Succ, 甲基强酮钠钠, 0.06214689265536722
+Lactated Ringers, 哺乳的铃声, 0.06335721157149729
+Erythromycin, 红霉素, 0.06666666666666667
+Bisacodyl, Bisacodyl, 0.069678334910123
+OxycoDONE-Acetaminophen Elixir, 羟考酮 - 乙酰氨基酚长生不老药, 0.07142857142857142
+Potassium Chl 20 mEq / 1000 mL NS, 钾CHL 20 MEQ / 1000毫升NS, 0.07352941176470588
+Artificial Tears, 人造眼泪, 0.07407407407407407
+Acetaminophen (Liquid), 对乙酰氨基酚（液体）, 0.07608695652173914
+BuPROPion XL (Once Daily), 安非他酮XL（每天一次）, 0.07692307692307693
+OLANZapine (Disintegrating Tablet), 奥氮平（分解片剂）, 0.0859375
+Potassium Chloride Replacement (Oncology), 氯化钾替代品（肿瘤学）, 0.08653846153846154
+Sodium Chloride Nasal, 氯化钠鼻, 0.09090909090909091
+Sulfameth/Trimethoprim Suspension, 硫酸/甲氧苄啶悬浮液, 0.09090909090909091
+Metoclopramide, 甲氧氯普胺, 0.09175531914893617
+Tacrolimus, 克莫司, 0.0951783723522854
+sevelamer CARBONATE, Sevelamer碳酸盐, 0.09895833333333333
+NIFEdipine CR, nifedipine cr, 0.1
+Alteplase (Catheter Clearance), Alteplase（导管间隙）, 0.10493827160493827
+Sulfameth/Trimethoprim SS, 硫磺/甲氧苄啶SS, 0.11029411764705882
+Cosyntropin, cosyntropin, 0.1111111111111111
+Eptifibatide, Eptifibatide, 0.1111111111111111
+Lidocaine 2%, 利多卡因2％, 0.1111111111111111
+Clotrimazole Cream, 氯咪唑奶油, 0.1111111111111111
+Epoetin Alfa, Epoet的alpha, 0.1117857142857143
+Sodium Bicarbonate, 碳酸氢钠, 0.1118140589569161
+Scopolamine Patch, 骨pol碱补丁, 0.11627906976744186
+Naproxen, 萘普生, 0.125
+Dexamethasone, 地塞米松, 0.12840909090909092
+Lansoprazole Oral Disintegrating Tab, 兰索拉唑口服瓦特片, 0.1324200913242009
+ValGANCIclovir, Valganciclovir, 0.14285714285714285
+Isosorbide Dinitrate, 异质二硝酸盐, 0.14285714285714285
+Pioglitazone, 吡格列酮, 0.14285714285714285
+Doxercalciferol, doxercalciferol, 0.14285714285714285
+Sulfamethoxazole-Trimethoprim, 磺胺甲氧唑 - 三甲苄啶, 0.14285714285714285
+Calcium Gluconate sliding scale (Critical Care-Ionized calcium), 葡萄糖酸钙滑动量表（关键护理离子钙）, 0.14285714285714285
+Albumin 5%, 白蛋白5％, 0.14285714285714285
+Ketorolac, Ketorolac, 0.14397689768976898
+Hydrocortisone Na Succ., 辅助的氢化可的松。, 0.15384615384615385
+Potassium Chloride (Powder), 氯化钾（粉末）, 0.15692640692640694
+Sodium Chloride, 氯化钠, 0.15789473684210525
+LR, LR, 0.15903057338700902
+GuaiFENesin, 瓜芬辛, 0.16666666666666666
+Syringe (Chemo), 注射器（化学）, 0.17894736842105263
+Sodium Polystyrene Sulfonate, 聚苯乙烯磺酸钠, 0.18181818181818182
+Benzonatate, 苯甲酸盐, 0.18181818181818182
+Bupivacaine 0.5%, 布比卡因0.5％, 0.2
+ChlorproMAZINE, 氯丙嗪, 0.2
+Enoxaparin (Prophylaxis), 依诺帕林（预防）, 0.2
+Neomycin Sulfate, 新霉素硫酸盐, 0.2
+Rocuronium, rocuronium, 0.2
+Citrate Dextrose 3% (ACD-A) CRRT, 柠檬酸葡萄糖3％（ACD-A）CRRT, 0.2
+Zonisamide, Zonisamide, 0.2
+Betamethasone Sodium Phos/Acet, 倍他米松钠phos/acet, 0.2
+Aztreonam, aztreonam, 0.2
+Rituximab, 利妥昔单抗, 0.2
+Budesonide, 布德索德, 0.2
+Syringe (NS), 注射器（NS）, 0.2
+Prasugrel, Prasugrel, 0.2
+Nimodipine, 尼莫地平, 0.2
+Lidocaine 2% P.f., 利多卡因2％p.f., 0.2
+Caphosol, Caphosol, 0.20588235294117646
+Dexamethasone Sod Phosphate, 地塞米松SOD磷酸盐, 0.20588235294117646
+Potassium Chloride Replacement (Critical Care and Oncology) , 氯化钾的替代品（重症监护和肿瘤学）, 0.2088607594936709
+Gentamicin, 庆大霉素, 0.20967741935483872
+Heparin Flush (1000 units/mL), 肝素冲洗（1000单位/毫升）, 0.21052631578947367
+Acetaminophen w/Codeine, 带可待因的对乙酰氨基酚, 0.2222222222222222
+Labetalol, Labetalol, 0.2259136212624585
+Mycophenolate Mofetil, 霉酚酸酯, 0.2333333333333333
+OxycoDONE Liquid, 羟考酮液体, 0.23529411764705882
+Tuberculin Protein, 结核蛋白蛋白, 0.24074074074074073
+Oxycodone-Acetaminophen (5mg-325mg), 羟考酮 - 乙酰氨基酚（5mg-325mg）, 0.24782608695652175
+Oxybutynin, oxybutynin, 0.25
+Pyridoxine, 吡ridoxine, 0.25
+Cyclophosphamide, 环磷酰胺, 0.25
+PrednisoLONE Acetate 1% Ophth. Susp., 醋酸泼尼松酮1％OPHTH。涉嫌。, 0.2727272727272727
+Calcium Carbonate, 碳酸钙, 0.27378048780487807
+Torsemide, 托西德, 0.2745098039215686
+Nystatin Oral Suspension, 神经结构汀口服悬浮液, 0.2846153846153846
+Clotrimazole, 克替三唑, 0.2857142857142857
+Erythromycin 0.5% Ophth Oint, 红霉素0.5％ophth oint, 0.29411764705882354
+CycloPHOSPHAMIDE, 环磷酰胺, 0.3
+Oxycodone-Acetaminophen, 羟考酮 - 乙酰氨基酚, 0.3135593220338983
+Milk of Magnesia, 镁乳, 0.3256756756756757
+Transplant Self Medication Program, 移植自药计划, 0.3333333333333333
+Oxaliplatin, 奥沙利铂, 0.3333333333333333
+Benztropine Mesylate, 苯甲酸苯甲酸苯甲酸酯, 0.3333333333333333
+Oseltamivir Phosphate, 奥司他韦磷酸盐, 0.3333333333333333
+Misoprostol, 米索前列醇, 0.3333333333333333
+Timolol Maleate 0.25%, Timolol Maleate 0.25％, 0.3333333333333333
+Heparin (CRRT Machine Priming), 肝素（CRRT机器启动）, 0.3333333333333333
+Bengay Cream, Bengay Cream, 0.3333333333333333
+Propranolol, 普萘洛尔, 0.3333333333333333
+Fluocinonide 0.05% Cream, 氟辛尼剂0.05％奶油, 0.3333333333333333
+Pamidronate, pamidronate, 0.3333333333333333
+Nitroprusside Sodium, 硝酸钠, 0.3333333333333333
+Furosemide-Heart Failure, 速尿性心脏衰竭, 0.3333333333333333
+Esomeprazole sodium, 埃索美拉唑钠, 0.3333333333333333
+Thrombin, 凝血酶, 0.3333333333333333
+Syringe (Intrathecal), 注射器（鞘内）, 0.3333333333333333
+Glycerin Supps, 甘油supps, 0.3333333333333333
+Pentamidine-Inhalation, 五胺吸入, 0.3333333333333333
+Minoxidil, 米诺地尔, 0.3333333333333333
+Hydrocortisone Cream 2.5%, 氢化可的松奶油2.5％, 0.3333333333333333
+Azathioprine, 硫唑嘌呤, 0.3333333333333333
+Sevelamer, Sevelamer, 0.3333333333333333
+Posaconazole, popaconazole, 0.3333333333333333
+AzaTHIOprine, 硫唑嘌呤, 0.3333333333333333
+Rasburicase, 拉斯伯酶, 0.3333333333333333
+Hydrocortisone Oint 1%, 氢化可的松油1％, 0.3333333333333333
+Hepatitis B Vaccine (20 mcg/mL), 肝炎B疫苗（20 mcg/mL）, 0.3333333333333333
+sodium bicarb, 碳酸钠, 0.3333333333333333
+Phenytoin Sodium (IV), 苯妥英钠钠（IV）, 0.3333333333333333
+Sodium Chloride 0.9%  Flush for CRRT, 氯化钠0.9％冲洗CRRT, 0.3333333333333333
+23.4% Sodium Chloride, 23.4％氯化钠, 0.3333333333333333
+Nitrofurantoin (Macrodantin), 硝基氟氨酸（雄魔）, 0.3333333333333333
+Enalaprilat, 隔板, 0.3333333333333333
+Sodium Fluoride 1.1% (Dental Gel), 氟化钠1.1％（牙齿）, 0.3333333333333333
+TRIAzolam, 三唑兰, 0.3333333333333333
+Dextromethorphan-Guaifenesin (Sugar Free), 右美甲苯甲中素（无糖）, 0.3333333333333333
+Calcium Carbonate Suspension, 碳酸钙悬浮液, 0.3333333333333333
+Magnesium Sulfate Replacement (Oncology), 硫酸镁替代（肿瘤学）, 0.3333333333333333
+Albumin 5% , 白蛋白5％, 0.3333333333333333
+Mercaptopurine, 胃嘌呤, 0.3333333333333333
+Niacin, 烟酸, 0.3333333333333333
+Fosaprepitant, fosaprepitant, 0.34782608695652173
+Ampicillin Sodium, 氨苄青霉素钠, 0.3684210526315789
+Anti-Thymocyte Globulin (Rabbit), 抗胸腺细胞球蛋白（兔）, 0.4
+Lidocaine-Prilocaine, 利多卡因 - 丙洛卡因, 0.4
+Methotrexate Sodium, 甲氨蝶呤钠, 0.4
+Magnesium Sulfate (OB), 硫酸镁（OB）, 0.4166666666666667
+Epidural Bag, 硬膜外袋, 0.42857142857142855
+5 Syringes (NS), 5个注射器（NS）, 0.42857142857142855
+Aluminum Hydroxide Suspension, 氢氧化铝悬浮液, 0.42857142857142855
+Clobetasol Propionate 0.05% Ointment, 丙酸氯沙霉0.05％软膏, 0.42857142857142855
+Aquaphor Ointment, 水上油膏, 0.42857142857142855
+D10W, D10W, 0.42857142857142855
+Calcitonin Salmon, 降钙素鲑鱼, 0.42857142857142855
+Hyoscyamine, 瘤胺, 0.45454545454545453
+Micafungin, Micafungin, 0.47368421052631576
+Gentamicin Sulfate, 硫酸庆大霉素, 0.4782608695652174
+Isotonic Sodium Chloride, 等距氯化钠, 0.4791666666666667
+Naloxone, 纳洛酮, 0.4888888888888889
+HYDROmorphone P.F., Hydromorphone P.F., 0.5
+Hydrocortisone (Rectal) 2.5% Cream, 氢化可的松（直肠）2.5％奶油, 0.5
+Felodipine, felodipine, 0.5
+Potassium Chl 20 mEq / 1000 mL D5NS, 钾CHL 20 MEQ / 1000 mL D5NS, 0.5
+ValGANCIclovir Suspension, Valganciclovir悬架, 0.5
+Hepatitis B Vaccine, 丙型肝炎疫苗, 0.5
+Sodium Chloride 3% (Hypertonic), 氯化钠3％（高渗）, 0.5
+Insulin (Regular) for Hyperkalemia, 高钾血症的胰岛素（常规）, 0.5
+Tacrolimus Suspension, 他克莫司悬浮, 0.5
+Racepinephrine, 种族肾上腺素, 0.5
+Dapsone, Dapsone, 0.5
+Liothyronine Sodium, 氟氨酸钠, 0.5
+Alendronate Sodium, 丙膦酸钠, 0.5
+Ciprofloxacin 0.3% Ophth Soln, 环丙沙星0.3％OPHTH溶液, 0.5
+Vitamin A, 维生素A。, 0.5
+VinCRIStine, 长春新碱, 0.5
+Ivermectin, 伊维菌素, 0.5
+Amino Acids 5%-Dextrose 15%, 氨基酸5％ - 脱糖15％, 0.5
+CycloSPORINE (Sandimmune), 环孢菌素（Sandimmune）, 0.5
+Simethicone, 类似, 0.5025879917184265
+Amoxicillin, 阿莫西林, 0.5384615384615384
+Desmopressin Acetate, 去氨加压素醋酸盐, 0.5384615384615384
+CycloSPORINE (Neoral) MODIFIED, 环孢霉素（Neoral）修饰, 0.546875
+Triamcinolone Acetonide 0.1% Ointment, Triamcinolone乙烯剂0.1％软膏, 0.5555555555555556
+Ibuprofen, 布洛芬, 0.5843848580441641
+EPINEPHrine (EpiPEN), 肾上腺素（Epipen）, 0.6
+Heparin (IABP), 肝素（IABP）, 0.6
+Methylergonovine Maleate, Methylergonovine Maleate, 0.6
+Alteplase, Alteplase, 0.6
+Tenofovir Disoproxil (Viread), Tenofovir disoproxil（viread）, 0.6
+Syringe (Sterile Water), 注射器（无菌水）, 0.6
+NIFEdipine, 硝苯地平, 0.6
+GlipiZIDE XL, Glipizide XL, 0.6
+SulfaSALAzine_, 磺胺嗪, 0.6
+Oxazepam, 阿沙西m, 0.6
+NS Syringe (Intrapleural), NS注射器（胸腔内）, 0.6
+Cytarabine, 黄体, 0.6052631578947368
+0.9% Sodium Chloride P.F. (Syringe), 0.9％氯化钠P.F.（注射器）, 0.6363636363636364
+Pseudoephedrine, 伪麻黄碱, 0.6666666666666666
+sevelamer HYDROCHLORIDE, Sevelamer盐酸盐, 0.6666666666666666
+Multivitamins W/minerals Chewable, 具有/矿物质可咀嚼的多种维生素, 0.6666666666666666
+Iohexol 240 (Omnipaque 240), iohexol 240（Omnipaque 240）, 0.6666666666666666
+Dermoplast Spray, 皮肤塑料喷雾, 0.6774193548387096
+Leucovorin Calcium, 白细胞钙钙, 0.6818181818181818
+Tetanus-DiphTox-Acellular Pertuss (Adacel), 破伤风 - 二尖酸 - 细胞巨大（adacel）, 0.7
+Clarithromycin, 克拉霉素, 0.7
+DOBUTamine, 多丁胺, 0.7222222222222222
+Oxytocin, 催产素, 0.725
+Codeine Sulfate, 可待因硫酸盐, 0.7282608695652174
+Methotrexate, 甲氨蝶呤, 0.75
+Morphine Sulfate (Oral Soln.), 吗啡硫酸盐（口服溶液）。, 0.75
+Naloxone HCl, 纳洛酮HCl, 0.7777777777777778
+LaMIVudine, 拉米夫丁, 0.8064516129032258
+Dibucaine, 二丁ca, 0.8098591549295775
+Methotrexate Sodium P.F., 甲氨蝶呤钠P.F., 0.8181818181818182
+Sodium Citrate, 柠檬酸钠, 0.8333333333333334
+Entecavir, Entecavir, 0.8947368421052632
+ATRIPLA , Atripla, 1.0
+Oxaliplatin Desensitization, 奥沙利铂脱敏, 1.0
+Portia, Portia, 1.0
+Levonorgestrel-Ethinyl Estrad, 左甲虫 - 乙醇埃斯特拉德, 1.0
+Adenosine, 腺苷, 1.0
+Glyburide Prestab, Glyburide Prestab, 1.0
+Ibuprofen Suspension, 布洛芬悬架, 1.0
+Hepatitis B Immu Glob (HepaGam B), 乙型肝炎imu球（赫帕加B）, 1.0
+Hepatitis B Immun Globulin (HepaGam B), 丙型肝炎免疫球蛋白（Hepagam B）, 1.0
+Tyzeka (Telbivudine), Tyzeka（Telbivudine）, 1.0
+Telbivudine, 雌激素, 1.0
+Measles, Mumps & Rubella Vac, 麻疹，腮腺炎和风疹真空, 1.0
+Amoxicillin-Clavulanate Susp., 阿莫西林 - 克拉氏菌杂种。, 1.0
+Metoprolol Tart 5mg/5mL 5mL VIAL, 美托洛洛洛尔5mg/5ml 5ml 5ml小瓶, 1.0
+Morphine Sulfate 2mg/1mL 1mL SYR, 吗啡硫酸盐2mg/1ml 1ml 1ML SYR, 1.0
+Haloperidol 5mg/1mL 1mL VIAL, 氟哌啶醇5mg/1ml 1ml小瓶, 1.0
+Betamethasone Dipro 0.05% Cream, 倍他米松迪普罗0.05％奶油, 1.0
+Varicella Virus Vaccine, 水痘病毒疫苗, 1.0
+Tobramycin Inhalation Soln, 毒素吸入溶液, 1.0
+Hydrocortisone Na Succ, 辅助的氢化可的松, 1.0
+Vancomycin Antibiotic Lock, 万古霉素抗生素锁, 1.0
+Chlordiazepoxide HCl, 氯二氮二氧化物HCl, 1.0
+Sulfameth, 硫磺, 1.0
+Phenazopyridine HCl, 苯并吡啶HCl, 1.0
+Hemabate, 汉堡, 1.0
+Syringe (Intraperitoneal), 注射器（腹膜内）, 1.0
+Heparin INTRAPERITONEAL, 肝素腹膜内, 1.0
+Lithium Carbonate SR (Lithobid), 碳酸锂SR（岩石叶）, 1.0
+Melatonin, 褪黑激素, 1.0
+Minocycline, 米诺环素, 1.0
+benz, 奔驰, 1.0
+Docusate, 记录, 1.0
+Guai, 麻烦, 1.0
+Alendronate , alendronate, 1.0
+Morphine Sulfate (Concentrated Oral Solution) 20 mg/mL, 吗啡硫酸盐（浓缩口服溶液）20 mg/ml, 1.0
+Bromocriptine Mesylate, 氨基氨基氨基酯, 1.0
+Propylthiouracil, 丙二醇, 1.0
+Arava, 大车, 1.0
+Mupiroci, 贡献, 1.0
+Trifluoperazine HCl, 三氟嗪HCl, 1.0
+Fluphenazine DECANOATE, fluphenazine decanoate, 1.0
+Clindamycin Suspension, 克林霉素悬浮液, 1.0
+Alteplase 1mg/5mL ( Clearance ie. Indwelling port ), Alteplase 1mg/5ml（清除率即留置端口）, 1.0
+Isoniazid, 异尼济, 1.0
+DAUNOrubicin, 凹蛋白, 1.0
+Pegaspargase, pegaspargase, 1.0
+Amino Acids 4.25%-Dextrose 5%, 氨基酸4.25％ - 脱糖5％, 1.0
+Carbidopa-Levodopa (25-100) ODT, Carbidopa-Levodopa（25-100）ODT, 1.0
+Zoledronic Acid, 唑来膦酸, 1.0
+Zoledronic Acid (Zometa), 唑来膦酸（Zometa）, 1.0
+Rapaflo, Rapaflo, 1.0
+Dexilant (dexlansoprazole), 右递糖（右兰索拉唑）, 1.0
+Multivit, 多维, 1.0
+Nitroglycerin Patch, 硝酸甘油补丁, 1.0
+Adefovir, 阿德菲维尔, 1.0
+Posaconazole Delayed Release Tablet, popaconazole延迟释放平板电脑, 1.0
+Morphine 0.2% Oral Rinse, 吗啡0.2％口服冲洗, 1.0
+Aminocaproic Acid 25 % Oral Rinse, 氨基酸酸25％口服冲洗, 1.0
+Iohexol 240, iohexol 240, 1.0
+Fat Emulsion 20%, 脂肪乳液20％, 1.0
+Viokase-8, VIOKASE-8, 1.0
+Sacubitril-Valsartan (24mg-26mg), Sacubitril-Valsartan（24mg-26mg）, 1.0
+Anoro Ellipta, 阿贝尔塔, 1.0
+umeclidinium-vilanterol, 腹膜乙醇, 1.0
+Budesonide flexhaler (Pulmicort), 布德索德弹性（Pulmicort）, 1.0
+umeclidinium-vilanterol *NF* 62.5-25 mcg/puff, Umeclidinium-Vilanterol * NF * 62.5-25 MCG/Puff, 1.0
+Talc (Sterile), 滑石粉（无菌）, 1.0
+Pulmicort Flexhaler 180mcg/puff, PULMICORT FLEXHALER 180MCG/PUFF, 1.0
+irbesartan, Irbesartan, 1.0
+NS (Glass Bottle), NS（玻璃瓶）, 1.0
+Foscarnet Sodium, Foscarnet钠, 1.0
+Trivora (28), 特里沃拉（28）, 1.0
+adefovir, 阿德菲维尔, 1.0
+Tranexamic Acid, 曲霉素酸, 1.0
+NIFEdipine (Immediate Release), nifedipine（立即发布）, 1.0
+Potassium Bicarbonate Eff, 碳酸氢钾EFF, 1.0
+praziquantel, praziquantel, 1.0
+albendazole, 阿苯达唑, 1.0
+Clonidine TTS 3 Patch, 可乐定TTS 3补丁, 1.0
+Clopidogrel Bisulfate, 氯吡格雷硫酸盐, 1.0
+300 mcg Vial, 300 MCG小瓶, 1.0
+vancomycin, 万古霉素, 1.0
+Leuprolide Acetate, 乙酸亮脂, 1.0
+Imipramine, 丙咪胺, 1.0
+Prenatal Vitamins, 产前维生素, 1.0
+Betamethasone Na. Phos/Acet, 替南瑟斯森foss/set, 1.0
+Levemir, 莱维米尔, 1.0
+Sacubitril-Valsartan (97mg-103mg), Sacubitril-Valsartan（97mg-103mg）, 1.0
+Sacubitril-Valsartan (49mg-51mg), Sacubitril-Valsartan（49mg-51mg）, 1.0
+Triamcinolone Acetonide 0.025% Cream, Triamcinolone乙烯剂0.025％奶油, 1.0
+Tretinoin (ATRA-All Transretinoic Acid), 维甲酸（Atra-All drestinoinic Acid）, 1.0
+tenofovir alafenamide, Tenofovir Alafenamide, 1.0
+Ketoconazole 2% , 酮康唑2％, 1.0
+CeftriaXONE Desensitization, 头孢曲松脱敏, 1.0
+Busulfan, Busulfan, 1.0
+Glutamine, 谷氨酰胺, 1.0
+Nitroglycerin Ointment 0.2%, 硝酸甘油软膏0.2％, 1.0
+Mitoxantrone, Mitoxantrone, 1.0
+Lenalidomide, 列纳莱度胺, 1.0
+Letrozole, letrozole, 1.0
+OxyCODONE SR (OxyCONTIN), 羟考酮SR（Oxycontin）, 1.0
+Thiotepa, Thootepa, 1.0
+GuaiFENesin-CODEINE Phosphate, 肠磷酸肠磷酸盐, 1.0
+Metronidazole Gel 0.75%-Vaginal, 甲硝唑凝胶0.75％ - 阴道, 1.0
+Clotrimazole 1% Vaginal Cream, 氯咪唑1％阴道霜, 1.0
+Romiplostim, Romiplost, 1.0
+Hydroxyurea, 羟基脲, 1.0
+Midostaurin, Midostaurin, 1.0
+midostaurin, Midostaurin, 1.0
+Hepsera, hep, 1.0
+Nalbuphine HCl, Nalbuphine HCl, 1.0
+Dextromethorphan Polistirex, 右美感plistirex, 1.0
+dabigatran etexilate (Pradaxa), 达维加特兰（Davigatran）你（我表演）, 1.0
+Rifampin, 利福平, 1.0
+Acetaminophen w/Codeine Elixir, 对乙酰氨基酚，带可待因长生不老药, 1.0
+Clindamycin 1% Solution, 克林霉素1％溶液, 1.0
+Prefera-OB One, 我更喜欢一个, 1.0
+Lidocaine 0.5%/Epinephrine, 利多卡因0.5％/肾上腺素, 1.0
+Domeboro, 抹布, 1.0
+Fentanyl PCA, 芬太尼PCA, 1.0
+Namenda, 我没结婚, 1.0
+Terbutaline Sulfate, 硫酸苯丁胺, 1.0
+Sodium Fluoride (Dental Gel), 氟化钠（牙齿）, 1.0
+Polymyxin B Sulfate, 多霉菌素B硫酸盐, 1.0
+Norethindrone-Estradiol, 北印度雌二醇, 1.0
+Multivitamin IV (Without Vit. K), 多种维生素IV（无vit。K）, 1.0
+Repaglinide, Repaglinide, 1.0
+Hydrocortisone Oint 2.5%, 氢化可的松奥特（2.5％）, 1.0
+Haloperidol Decanoate, 氟哌啶醇decanoate, 1.0
+clotrimazole-betamethasone, 氯咪唑 - 替他塞松, 1.0
+Thiothixene, 噻座, 1.0
+Cinacalcet HCl, Shunakalst HCHL, 1.0
+Bethanechol, 贝萨诺尔, 1.0
+Bicitra, Bicitra, 1.0
+Vitamin E, 维生素E。, 1.0
+Capto, 捕获, 1.0
+sodium bicar, 比卡钠, 1.0
+Carbidopa-Levodopa CR (25-100), Carbidopa-Levodopa CR（25-100）, 1.0
+Liposomal DOXOrubicin (Doxil), 脂质体阿霉素（多克西尔）, 1.0
+Tretinoin (ATRA, All-Transretinoic Acid), 维甲酸（ATRA，全苯甲酰酸）, 1.0
+Arsenic Trioxide, 砷三氧化物, 1.0
+Risedronate, riscesronate, 1.0
+Trace Elements, 微量元素, 1.0
+Dantrolene Sodium, Dantrolene钠, 1.0
+Amantadine Syrup, 阿曼塔丁糖浆, 1.0
+Prometrium, 前膜, 1.0
+Bivalirudin, BiveGrudin, 1.0
+AMOXicillin Oral Susp., 阿莫西林口服。, 1.0
+vera, 维拉, 1.0
+Levalbuterol HCl, Levalbuterol HCl, 1.0
+Prenatal Multivitamins +DHA, 产前多种维生素 +DHA, 1.0
+Prenatal + DHA, 按 + d, 1.0
+Clevidipine, CLEVIDIPINE, 1.0
+Adderall XR, adderall xr, 1.0
+Theophylline SR, 茶碱SR, 1.0
+IDArubicin, iDarubic, 1.0
+ve, VE, 1.0
+Phenytoin Infatab, 苯妥英·阿塔布, 1.0
+multi, 多, 1.0
+fluconazole, 氟康唑, 1.0
+Tamoxifen Citrate, 他莫昔芬柠檬酸盐, 1.0
+Naphazoline-Pheniramine Ophth. Solution, 萘唑啉 - 苯胺丙氨酸。解决方案, 1.0
+clarithromycin, 克拉霉素, 1.0
+Interferon Alfa-2B, 干扰素阿尔法-2b, 1.0
+Zidovudine, Zidovudine, 1.0
+Sodium Acetate, 乙酸钠, 1.0
+Lidocaine, 利多卡因, 1.0
+Calcipotriene 0.005% Cream, 钙调3.005％奶油, 1.0
+Hyoscyamine SO4 (Time Release), Hysoscyamine SO4（时间释放）, 1.0
+Levobunolol 0.5%, Levobunolol 0.5％, 1.0
+MetOLazone, metolazone, 1.0
+Sildenafil, 西地那非, 1.0
+Tetracaine 0.5% Ophth Soln, 四卡因0.5％OPHTH溶液, 1.0
+Phentolamine Mesylate, 戊醇麦甲酸酯, 1.0
+Docusat, Docusat, 1.0
+Tropicamide 1 %, 热胺1％, 1.0
+Phenylephrine 2.5 % Ophth Soln, 苯肾上腺素2.5％OPHTH溶液, 1.0
+AcetaZOLamide, 乙酸唑胺, 1.0
+Colistin, colistin, 1.0
+Multiple Vitamins Liq., 多种维生素液体。, 1.0
+Amikacin, amikacin, 1.0
+Imipenem-Cilastatin, 亚替林 - 甲胺, 1.0
+CefTAZidime Graded Challenge, 头孢济级分级挑战, 1.0
+Sodium Chloride , 氯化钠, 1.0
+Povidone Iodine 1/2 Strength, Povidone碘1/2强度, 1.0
+ibrutinib, 辉光, 1.0
+lenalidomide, 列纳莱度胺, 1.0
+Bacitracin Ophthalmic Oint, 杆菌蛋白眼科药, 1.0
+riTUXimab, 利妥昔单抗, 1.0
+Venetoclax, Venetoclax, 1.0
+Fleet Phospho-Soda, 车队磷酸化, 1.0
+Bevacizumab (Avastin), 进化, 1.0
+ CoQ10 (300mg), COQ10（300mg）, 1.0
+Simbrinza, Symbreza, 1.0
+ofloxacin, 氧氟沙星, 1.0
+Dexamethasone Ophthalmic Soln 0.1%, 地塞米松眼科溶液0.1％, 1.0
+Provera, Provera, 1.0
+neph, Neph, 1.0
+Cefepime Graded Challenge, 头孢酸分级挑战, 1.0
+*NF* Rasburicase, * nf* rasbericase, 1.0
+BenGay, Bengay, 1.0
+Pyrazinamide, 吡嗪酰胺, 1.0
+Hydrocortisone Na Succinate, 氢化可的松NA琥珀酸酯, 1.0
+Ethambutol HCl, Ethambutol Hcl, 1.0
+Moxifloxacin, 莫西沙星, 1.0
+Rifabutin, 利法布丁, 1.0
+Antithrombin 3 (human), 抗凝血酶3（人）, 1.0
+Irbesartan, Irbesartan, 1.0
+Avapro, 波普罗, 1.0

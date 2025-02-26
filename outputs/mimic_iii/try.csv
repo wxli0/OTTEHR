@@ -1,0 +1,2 @@
+admid,adm_type,gender,ICD codes,duration,diagnosis,label,admission location,insurance,language,religion,marital_status,ethnicity
+172335,EMERGENCY,F,"['403.01', '486', '582.81', '585.5', '425.4', '276.2', '710.0', '276.7', '724.3', '458.29', '287.5', '285.21', '285.29', '275.41']",530460.0,LEG PAIN,0,EMERGENCY ROOM ADMIT,Medicaid,ENGL,NOT SPECIFIED,SINGLE,BLACK/AFRICAN AMERICAN
